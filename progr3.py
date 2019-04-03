@@ -1,0 +1,6 @@
+print("enter your name:")
+x=input()
+print("hello, ", x)
+print(x[4],x[6])
+print(x.replace("a","v"))
+print(len(x))
